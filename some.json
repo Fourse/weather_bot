@@ -1,0 +1,52 @@
+{
+    "card": {
+        "type": "list_card",
+        "cells": [
+            {
+                "type": "details_cell_view",
+                "content": {
+                    "text": "GAZP_1",
+                    "typeface": "headline1",
+                    "style": "transparent",
+                    "type": "accept",
+                    "actions": [
+                        {
+                            "type": "text",
+                            "text": "GAZP_1"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "button_cell_view",
+                "content": {
+                    "text": "GAZP_2",
+                    "typeface": "headline1",
+                    "style": "transparent",
+                    "type": "accept",
+                    "actions": [
+                        {
+                            "type": "text",
+                            "text": "GAZP_2"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "button_cell_view",
+                "content": {
+                    "text": "GAZP_3",
+                    "typeface": "headline1",
+                    "style": "transparent",
+                    "type": "accept",
+                    "actions": [
+                        {
+                            "type": "text",
+                            "text": "GAZP_3"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
